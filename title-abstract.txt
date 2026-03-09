@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+<Early ICU Sepsis Prediction with SEPSIS SENTINEL MODEL>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+<We developed an ICU-hour–level prediction model using aggregated vital signs to forecast sepsis onset within a 1–4 hour window.>
